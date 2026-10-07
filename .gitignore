@@ -1,0 +1,39 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging
+build/
+dist/
+*.spec
+
+# PyInstaller
+*.exe
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Testing / temporary files
+.pytest_cache/
+.coverage
+test_*.py
+test_*.png
+test_*.pdf
+
+# Generated / temporary files
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
